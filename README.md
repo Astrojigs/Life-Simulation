@@ -11,6 +11,4 @@ that obey Newton's laws.
 
 ||||
 |---|---|---|
-|![](https://github.com/Astrojigs/Life-Simulation/blob/main/Outputs/demo2_gif.gif)|
-![](https://github.com/Astrojigs/Life-Simulation/blob/main/Outputs/demo3_gif.gif)|
-![](https://github.com/Astrojigs/Life-Simulation/blob/main/Outputs/demo4_gif.gif)|
+|![](https://github.com/Astrojigs/Life-Simulation/blob/main/Outputs/demo2_gif.gif)|![](https://github.com/Astrojigs/Life-Simulation/blob/main/Outputs/demo3_gif.gif)|![](https://github.com/Astrojigs/Life-Simulation/blob/main/Outputs/demo4_gif.gif)|
