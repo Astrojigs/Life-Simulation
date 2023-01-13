@@ -7,4 +7,7 @@ Algorithm to create miniature life with Python.
 
 A simple architecture based on Newtonian mechanics has been developed to
 demonstrate how we can create unique patterns using randomly moving particles
-that obey Newton's laws. 
+that obey Newton's laws.
+
+
+![](https://github.com/Astrojigs/Life-Simulation/blob/main/Outputs/demo2_gif.gif)
